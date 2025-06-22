@@ -1,4 +1,4 @@
-# AB-TOH-PADHLE
+# BookBuddy
 **🤖📚 Textbook Chatbot**
 
 This project is a chatbot designed to assist students in interacting with their textbooks in a conversational manner. The chatbot has been developed using the RAG (Retrieval-Augmented Generation) model, which enables it to understand and respond to natural language queries. It can be run locally on a machine using LM Studio or accessed via the internet using the Hugging Face API.
@@ -14,10 +14,6 @@ This project is a chatbot designed to assist students in interacting with their 
 
 A detailed list of resources used in this project can be found in the `Resources.pdf` 
 
-## UI
-![Home Screen](https://github.com/breakthe-rule/AB_TOH_PADHLE/assets/114070578/35a3071e-568a-4529-873e-e13f9141997b)
-![Huggingface](https://github.com/breakthe-rule/AB_TOH_PADHLE/assets/114070578/f13f2583-8890-4d59-8723-3046d86f1a01)
-![Chat_history](https://github.com/breakthe-rule/AB_TOH_PADHLE/assets/114070578/1b478f2a-b2b7-4ce5-9d94-aae6b36537db)
 
 ## Workflow
 ![Flowchart](https://github.com/breakthe-rule/AB_TOH_PADHLE/assets/114070578/bdf8d899-0e98-46a3-9f06-98cf02a3cb05)
@@ -36,7 +32,5 @@ A detailed list of resources used in this project can be found in the `Resources
 7. `Whooo 🎉 Your setup is completed !!`
 
 
-## Contact
-I am open for any kind of suggetions/help regarding this project/domain. Feel free to reach me at tanayfalor@gamil.com and [Linkedin](https://www.linkedin.com/in/tanay-falor-a94802253/)
 
 
